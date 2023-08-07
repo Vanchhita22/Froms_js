@@ -1,0 +1,38 @@
+*{
+    font-size: large;
+    font-weight: 200;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 100%;
+  
+}
+
+.Info{
+    width: 30%;
+    height: 80%;
+    border: 2px solid black;
+    padding: 10px;
+    margin-left: 290px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlSeCvYzmxb3yexAcieMalz42N-DB2o-YmWQ&usqp=CAU");
+}
+
+#myForm{
+   line-height: 1.2;
+}
+input{
+    width: 100%;
+}
+
+input:focus{
+    background-color: aquamarine;
+}
+
+button{
+    background-color: #e6840d;
+    font-size: larger;
+    font-weight: 500;
+ 
+}
+button:focus{
+    background-color: red;
+
+}
